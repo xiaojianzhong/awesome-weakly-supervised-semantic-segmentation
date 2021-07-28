@@ -36,12 +36,6 @@ Read this in other languages: English | [简体中文](./README_zh-CN.md)
 [[code(pytorch)](https://github.com/liuzhengzhe/One-Thing-One-Click)]<br/>
 2021/04/06
 
-* Anchor-Constrained Viterbi for Set-Supervised Action Segmentation<br/>
-[[CVPR 2021](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Set-Constrained_Viterbi_for_Set-Supervised_Action_Segmentation_CVPR_2020_paper.html)]
-[[arxiv](https://arxiv.org/abs/2104.02113)]
-[~~code~~]<br/>
-2021/04/05
-
 * Background-Aware Pooling and Noise-Aware Loss for Weakly-Supervised Semantic Segmentation<br/>
 [[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Oh_Background-Aware_Pooling_and_Noise-Aware_Loss_for_Weakly-Supervised_Semantic_Segmentation_CVPR_2021_paper.html)]
 [[arxiv](https://arxiv.org/abs/2104.00905)]
