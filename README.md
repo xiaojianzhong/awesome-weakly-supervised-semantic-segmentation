@@ -4,6 +4,10 @@ A comprehensive list of **weakly supervised semantic segmentation** (WSSS) works
 
 Read this in other languages: English | [简体中文](./README_zh-CN.md)
 
+## Notation
+
+* [~~code~~] implies that there is no official/unofficial open source implementation available for this work.
+
 ## Table of Contents
 
 * [By Published Time](#by-published-time)
