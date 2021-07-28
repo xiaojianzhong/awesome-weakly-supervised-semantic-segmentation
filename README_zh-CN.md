@@ -38,7 +38,8 @@
 
 * Anchor-Constrained Viterbi for Set-Supervised Action Segmentation<br/>
 [[CVPR 2021](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Set-Constrained_Viterbi_for_Set-Supervised_Action_Segmentation_CVPR_2020_paper.html)]
-[[arxiv](https://arxiv.org/abs/2104.02113)]<br/>
+[[arxiv](https://arxiv.org/abs/2104.02113)]
+[~~code~~]<br/>
 2021/04/05
 
 * Background-Aware Pooling and Noise-Aware Loss for Weakly-Supervised Semantic Segmentation<br/>
