@@ -2,8 +2,6 @@
 
 A comprehensive list of **weakly supervised semantic segmentation** (WSSS) works from 2014 to 2021. Last updated at 2021/07/29.
 
-Read this in other languages: English | [简体中文](./README_zh-CN.md)
-
 ## Notation
 
 * [~~code~~] implies that there is no official/unofficial open source implementation available for this work.
