@@ -1,6 +1,6 @@
 # Awesome Weakly Supervised Semantic Segmentation
 
-A comprehensive list of **weakly supervised semantic segmentation** (WSSS) works from 2014 to 2021. Last updated at 2021/07/29.
+A comprehensive list of **weakly supervised semantic segmentation** (WSSS) works from 2014 to 2021. Last updated at 2021/10/18.
 
 ## Notation
 
