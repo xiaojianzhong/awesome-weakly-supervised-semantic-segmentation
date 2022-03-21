@@ -6,6 +6,10 @@ A comprehensive list of **weakly supervised semantic segmentation** (WSSS) works
 
 | date | what | title | venue | arxiv | code |
 |:----:|:----:|:----- |:-----:|:-----:|:----:|
+| 2022/03/08 | W-OoD | Weakly Supervised Semantic Segmentation using Out-of-Distribution Data | CVPR 2022 | [2203.03860](https://arxiv.org/abs/2203.03860) | [github](https://github.com/naver-ai/w-ood) |
+| 2022/03/06 | MCTformer | Multi-class Token Transformer for Weakly Supervised Semantic Segmentation | CVPR 2022 | [2203.02891](https://arxiv.org/abs/2203.02891) | [github](https://github.com/xulianuwa/MCTformer) |
+| 2022/03/05 | AFA | Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformers | CVPR 2022 | [2203.02664](https://arxiv.org/abs/2203.02664) | [pytorch](https://github.com/rulixiang/afa) |
+| 2022/03/02 | ReCAM | Class Re-Activation Maps for Weakly-Supervised Semantic Segmentation | CVPR 2022 | [2203.00962](https://arxiv.org/abs/2203.00962) | [pytorch](https://github.com/zhaozhengChen/ReCAM) |
 | 2021/06/19 | EDAM | Embedded Discriminative Attention Mechanism for Weakly Supervised Semantic Segmentation | [CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Wu_Embedded_Discriminative_Attention_Mechanism_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2021_paper.html) | - | [pytorch](https://github.com/allenwu97/EDAM) |
 | 2021/05/19 | EPS | Railroad Is Not a Train: Saliency As Pseudo-Pixel Supervision for Weakly Supervised Semantic Segmentation | [CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Lee_Railroad_Is_Not_a_Train_Saliency_As_Pseudo-Pixel_Supervision_for_CVPR_2021_paper.html) | [2105.08965](https://arxiv.org/abs/2105.08965) | [pytorch](https://github.com/halbielee/EPS) |
 | 2021/04/06 | 1T1C | One Thing One Click: A Self-Training Approach for Weakly Supervised 3D Semantic Segmentation | [CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_One_Thing_One_Click_A_Self-Training_Approach_for_Weakly_Supervised_CVPR_2021_paper.html) | [2104.02246](https://arxiv.org/abs/2104.02246) | [pytorch](https://github.com/liuzhengzhe/One-Thing-One-Click) |
