@@ -6,7 +6,7 @@ For a more detailed introduction, please refer [【总结】弱监督语义分�
 
 ---
 
-| date | what | title | venue | arxiv | code |
+| when | what | title | where | arxiv | code |
 |:----:|:----:|:----- |:-----:|:-----:|:----:|
 | 2022/03/08 | **W-OoD** | Weakly Supervised Semantic Segmentation using Out-of-Distribution Data | CVPR 2022 | [2203.03860](https://arxiv.org/abs/2203.03860) | [github](https://github.com/naver-ai/w-ood) |
 | 2022/03/06 | **MCTformer** | Multi-class Token Transformer for Weakly Supervised Semantic Segmentation | CVPR 2022 | [2203.02891](https://arxiv.org/abs/2203.02891) | [github](https://github.com/xulianuwa/MCTformer) |
