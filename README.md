@@ -8,11 +8,11 @@ For a more detailed introduction, please refer [【总结】弱监督语义分�
 
 | when | what | title | where | arxiv | code |
 |:----:|:----:|:----- |:-----:|:-----:|:----:|
-| 2022/04 | **L2G** | L2G: A Simple Local-to-Global Knowledge Transfer Framework for Weakly Supervised Semantic Segmentation | CVPR 2022 | [2204.03206](https://arxiv.org/abs/2204.03206) | [github](https://github.com/PengtaoJiang/L2G) |
-| 2022/03 | **CCAM** | Contrastive Learning of Class-agnostic Activation Map for Weakly Supervised Object Localization and Semantic Segmentation | CVPR 2022 | [2203.13505](https://arxiv.org/abs/2203.13505) | [github](https://github.com/CVI-SZU/CCAM) |
-| 2022/03 | **RCA** | Regional Semantic Contrast and Aggregation for Weakly Supervised Semantic Segmentation | CVPR 2022 | [2203.09653](https://arxiv.org/abs/2203.09653) | [github](https://github.com/maeve07/RCA) |
+| 2022/04 | **L2G** | L2G: A Simple Local-to-Global Knowledge Transfer Framework for Weakly Supervised Semantic Segmentation | CVPR 2022 | [2204.03206](https://arxiv.org/abs/2204.03206) | [pytorch](https://github.com/PengtaoJiang/L2G) |
+| 2022/03 | **CCAM** | Contrastive Learning of Class-agnostic Activation Map for Weakly Supervised Object Localization and Semantic Segmentation | CVPR 2022 | [2203.13505](https://arxiv.org/abs/2203.13505) | [pytorch](https://github.com/CVI-SZU/CCAM) |
+| 2022/03 | **RCA** | Regional Semantic Contrast and Aggregation for Weakly Supervised Semantic Segmentation | CVPR 2022 | [2203.09653](https://arxiv.org/abs/2203.09653) | [pytorch](https://github.com/maeve07/RCA) |
 | 2022/03 | **W-OoD** | Weakly Supervised Semantic Segmentation using Out-of-Distribution Data | CVPR 2022 | [2203.03860](https://arxiv.org/abs/2203.03860) | [github](https://github.com/naver-ai/w-ood) |
-| 2022/03 | **SIPE** | Self-supervised Image-specific Prototype Exploration for Weakly Supervised Semantic Segmentation | CVPR 2022 | [2203.02909](https://arxiv.org/abs/2203.02909) | [github](https://github.com/chenqi1126/SIPE) |
+| 2022/03 | **SIPE** | Self-supervised Image-specific Prototype Exploration for Weakly Supervised Semantic Segmentation | CVPR 2022 | [2203.02909](https://arxiv.org/abs/2203.02909) | [pytorch](https://github.com/chenqi1126/SIPE) |
 | 2022/03 | **MCTformer** | Multi-class Token Transformer for Weakly Supervised Semantic Segmentation | CVPR 2022 | [2203.02891](https://arxiv.org/abs/2203.02891) | [github](https://github.com/xulianuwa/MCTformer) |
 | 2022/03 | **AFA** | Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformers | CVPR 2022 | [2203.02664](https://arxiv.org/abs/2203.02664) | [pytorch](https://github.com/rulixiang/afa) |
 | 2022/03 | **CLIMS** | Cross Language Image Matching for Weakly Supervised Semantic Segmentation | CVPR 2022 | [2203.02668](https://arxiv.org/abs/2203.02668) | [github](https://github.com/CVI-SZU/CLIMS) |
