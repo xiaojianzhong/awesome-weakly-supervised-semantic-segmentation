@@ -15,7 +15,7 @@ For a more detailed introduction, please refer [【总结】弱监督语义分�
 | 2022/03 | **SIPE** | Self-supervised Image-specific Prototype Exploration for Weakly Supervised Semantic Segmentation | CVPR 2022 | [2203.02909](https://arxiv.org/abs/2203.02909) | [pytorch](https://github.com/chenqi1126/SIPE) |
 | 2022/03 | **MCTformer** | Multi-class Token Transformer for Weakly Supervised Semantic Segmentation | CVPR 2022 | [2203.02891](https://arxiv.org/abs/2203.02891) | [github](https://github.com/xulianuwa/MCTformer) |
 | 2022/03 | **AFA** | Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformers | CVPR 2022 | [2203.02664](https://arxiv.org/abs/2203.02664) | [pytorch](https://github.com/rulixiang/afa) |
-| 2022/03 | **CLIMS** | Cross Language Image Matching for Weakly Supervised Semantic Segmentation | CVPR 2022 | [2203.02668](https://arxiv.org/abs/2203.02668) | [github](https://github.com/CVI-SZU/CLIMS) |
+| 2022/03 | **CLIMS** | Cross Language Image Matching for Weakly Supervised Semantic Segmentation | CVPR 2022 | [2203.02668](https://arxiv.org/abs/2203.02668) | [pytorch](https://github.com/CVI-SZU/CLIMS) |
 | 2022/03 | **ReCAM** | Class Re-Activation Maps for Weakly-Supervised Semantic Segmentation | CVPR 2022 | [2203.00962](https://arxiv.org/abs/2203.00962) | [pytorch](https://github.com/zhaozhengChen/ReCAM) |
 | 2021/12 | **ASDT** | Weakly Supervised Semantic Segmentation via Alternative Self-Dual Teaching | - | [2112.09459](https://arxiv.org/abs/2112.09459) | - |
 | 2021/12 | **AMR** | Activation Modulation and Recalibration Scheme for Weakly Supervised Semantic Segmentation | AAAI 2022 | [2112.08996](https://arxiv.org/abs/2112.08996) | [pytorch](https://github.com/jieqin-ai/AMR) |
