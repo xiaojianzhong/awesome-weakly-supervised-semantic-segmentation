@@ -26,7 +26,7 @@ For a more detailed introduction, please refer [【总结】弱监督语义分�
 | 2021/10 | **InferCAM** | Inferring the Class Conditional Response Map for Weakly Supervised Semantic Segmentation | - | [2110.14309](https://arxiv.org/abs/2110.14309) | [pytorch](https://github.com/weixuansun/infercam) |
 | 2021/10 | **SONet** | Simpler Does It: Generating Semantic Labels with Objectness Guidance | BMVC 2021 | [2110.10335](https://arxiv.org/abs/2110.10335) | - |
 | 2021/10 | - | End-to-end Boundary Exploration for Weakly-supervised Semantic Segmentation | ACM MM 2021 | - | - |
-| 2021/10 | - | Weakly Supervised Semantic Segmentation by Pixel-to-Prototype Contrast | - | [2110.07110](https://arxiv.org/abs/2110.07110) | - |
+| 2021/10 | - | Weakly Supervised Semantic Segmentation by Pixel-to-Prototype Contrast | CVPR 2022 | [2110.07110](https://arxiv.org/abs/2110.07110) | - |
 | 2021/10 | **CGNet** | Unlocking the Potential of Ordinary Classifier: Class-Specific Adversarial Erasing Framework for Weakly Supervised Semantic Segmentation | ICCV 2021 | - | [pytorch](https://github.com/KAIST-vilab/OC-CSE) |
 | 2021/10 | **ECS-Net** | ECS-Net: Improving Weakly Supervised Semantic Segmentation by Using Connections Between Class Activation Maps | ICCV 2021 | - | - |
 | 2021/10 | **RIB** | Reducing Information Bottleneck for Weakly Supervised Semantic Segmentation | NIPS 2021 | [2110.06530](https://arxiv.org/abs/2110.06530) | [pytorch](https://github.com/jbeomlee93/RIB) |
